@@ -6,7 +6,7 @@
 
 #define NUM_THREADS 8
 
-#define NUM_TRIALS 1000000
+#define NUM_TRIALS 10000000
 #define MAX_TRACK_NUM8 5
 
 #define GRIDSIZE_X 30
